@@ -1,0 +1,1 @@
+This repo contains various code snippets I've found useful over the years.
